@@ -15,3 +15,6 @@ Este é um projeto simples de calculadora desenvolvido em Vue.js. Foi criado em 
   - `ButtonComponent`: Componente para representar cada botão da calculadora.
   - `DisplayComponent`: Componente para mostrar os números e o resultado.
 - **CSS**: Estilos básicos para a interface da calculadora.
+
+### Observações
+  - O Projeto possui bugs não relevantes para o funcionamento, mas como o objetivo era criar algo rápido e simples optei por concluilo deixando funcional.
